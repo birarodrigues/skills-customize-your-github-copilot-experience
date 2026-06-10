@@ -77,6 +77,25 @@
           "type": "txt"
         }
       ]
+    },
+    {
+      "id": "fastapi-jwt-auth",
+      "title": "JWT Authentication for FastAPI Endpoints",
+      "description": "Secure FastAPI routes using JWT login, token validation, and role-based authorization.",
+      "path": "assignments/fastapi-jwt-auth",
+      "dueDate": "2026-06-17",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Dependencies",
+          "file": "requirements.txt",
+          "type": "txt"
+        }
+      ]
     }
   ]
 }
